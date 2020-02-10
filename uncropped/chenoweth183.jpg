@@ -1,0 +1,23 @@
+<!DOCTYPE html><!--[if lt IE 7 ]><html class="ie6"><![endif]--><!--[if IE 7 ]><html class="ie7"><![endif]--><!--[if IE 8 ]><html class="ie8"><![endif]--><!--[if IE 9 ]><html class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]>--><html><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title></title><meta name="viewport" content="width=device-width, initial-scale=1"><noscript><meta HTTP-EQUIV="REFRESH" content="0; url=/legacy"></noscript><meta name="description" content="See related links to what you are looking for."/></head><body><script type="text/javascript">g_pc=(function(){var
+Ed=document,aBZ=location,DL=Ed.createElement('script'),aDf=false,Mc;DL.defer=true;DL.async=true;DL.src="//www.google.com/adsense/domains/caf.js";DL.onerror=function(){aBZ.href='/legacy';};DL.onload=DL.onreadystatechange=function(){if(!aDf&&Mc){if(!window['googleNDT_']){aBZ.replace('/legacy');}
+Mc(google.ads.domains.Caf);}
+aDf=true;};Ed.body.appendChild(DL);return{aBP:function(oi){if(aDf)
+oi(google.ads.domains.Caf);else
+Mc=oi;},bq:function(){if(!aDf){Ed.body.removeChild(DL);}}};})();g_pd=(function(){var
+aBZ=window.location,nB={},bH,aBX=aBZ.search.substring(1),aCZ,aC$;if(!aBX)
+return nB;aCZ=aBX.split("&");for(bH=0;bH<aCZ.length;bH++){aC$=aCZ[bH].split('=');nB[aC$[0]]=aC$[1]?aC$[1]:"";}
+return nB;})();(function(){var aCT=screen,RJ=window,aBZ=RJ.location,aDe=top.location,Ed=document,Sw=Ed.body||Ed.getElementsByTagName('body')[0],aDc=0,aDa=0,aDb=0;function aC_(){aDb++;aDc=RJ.innerWidth||Ed.documentElement.clientWidth||Sw.clientWidth;aDa=RJ.innerHeight||Ed.documentElement.clientHeight||Sw.clientHeight;if(aDc>0||aDb>=5){aDd();}
+else{setTimeout(aC_,100);}}
+aC_();function aDd(){var ef=undefined,IX=encodeURIComponent,aCY;if(aDe!=aBZ&&g_pd.r_s===ef)
+aDe.href=aBZ.href;aCY=Ed.createElement('script');aCY.type='text/javascript';aCY.src='/glp'+'?r='+(g_pd.r?g_pd.r:(Ed.referrer?IX(Ed.referrer.substr(0,255)):''))+
+(g_pd.r_u?'&u='+g_pd.r_u:'&u='+IX(aBZ.href.split('?')[0]))+
+(g_pd.gc?'&gc='+g_pd.gc:'')+
+(g_pd.cid?'&cid='+g_pd.cid:'')+
+(g_pd.query?'&sq='+g_pd.query:'')+
+(g_pd.a!==ef?'&a':'')+
+(g_pd.z!==ef?'&z':'')+
+(g_pd.z_ds!==ef?'&z_ds':'')+
+(g_pd.r_s!==ef?'&r_s='+g_pd.r_s:'')+
+(g_pd.r_d!==ef?'&r_d='+g_pd.r_d:'')+'&rw='+aCT.width+'&rh='+aCT.height+
+(g_pd.r_ww!==ef?'&ww='+g_pd.r_ww:'&ww='+aDc)+
+(g_pd.r_wh!==ef?'&wh='+g_pd.r_wh:'&wh='+aDa);Sw.appendChild(aCY);}})();</script></body></html>
